@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+yt-dlp
+requests
+python-multipart
+jinja2
+aiofiles
